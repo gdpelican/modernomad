@@ -122,7 +122,6 @@ TEMPLATE_DIRS = (
 
 INSTALLED_APPS = (
 	'registration',
-	'south',
 	'core',
 	'djcelery',
 	'gather',
